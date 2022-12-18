@@ -1,6 +1,6 @@
-{
-    "fpsunlocker": {
-        "fileName": "rbxfpsunlocker.exe",
-        "download": "https://github.com/nidahoxto/kyxodata/raw/main/bin-x64/rbxfpsunlocker.exe"
+[
+    {
+        "FileName": "rbxfpsunlocker.exe",
+        "Download": "https://github.com/nidahoxto/kyxodata/raw/main/bin-x64/rbxfpsunlocker.exe"
     }
-}
+]
